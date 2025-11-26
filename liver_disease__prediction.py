@@ -108,7 +108,6 @@ import matplotlib.pyplot as plt
 First, let's install `streamlit` if it's not already installed. Then, I'll provide the Python code for the Streamlit application. You can save this code as a `.py` file and run it using `streamlit run your_app_name.py`.
 """
 
-pip install streamlit
 
 import streamlit as st
 import pandas as pd
